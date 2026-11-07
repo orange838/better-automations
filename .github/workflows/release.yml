@@ -1,9 +1,7 @@
 name: Release Plugin
 
 on:
-  push:
-    tags:
-      - 'v*.*.*'
+  workflow_dispatch:   # 仅手动触发；插件已迁移回上游仓库，不再从本 fork 自动发布
 
 jobs:
   release:
