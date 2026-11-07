@@ -1,3 +1,9 @@
+> [!WARNING]
+> # ⚠️ 本插件已迁移，请勿再从本仓库下载
+>
+> 本插件的全部功能与后续维护已合并回原作者仓库 **[Kryon2025/Class-Widgets-2-Automations](https://github.com/Kryon2025/Class-Widgets-2-Automations)**。
+> 请前往上述仓库或 **Class Widgets 2 插件广场** 安装 / 更新，本仓库（orange838/better-automations）不再单独发布新版本。
+
 <div align="center">
 
 <img src="icon.png" height="120" alt="Kryon的自动化">
